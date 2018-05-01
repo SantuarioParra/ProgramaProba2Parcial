@@ -1,0 +1,14 @@
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\bin\Debug\ProgramaProba2Parcial.exe.config
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\bin\Debug\ProgramaProba2Parcial.exe
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\bin\Debug\ProgramaProba2Parcial.pdb
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.csprojResolveAssemblyReference.cache
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.Main.resources
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.Properties.Resources.resources
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.csproj.GenerateResource.cache
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.exe
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.pdb
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\bin\Debug\MetroSuite.dll
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\obj\Debug\ProgramaProba2Parcial.csproj.CopyComplete
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\ProgramaProba2Parcial\ProgramaProba2Parcial\bin\Debug\GChartLib.dll
